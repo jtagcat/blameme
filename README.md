@@ -32,3 +32,5 @@ There are a few components I'd see to this service:
        - when you'd subscribe to all changes in the commit, instead select files or current line numbers to track
        - it's like instead of `goto line_number`, you use `goto label`; should be intuitive enough
 
+
+A nice-to-have would to make it dumb easy to adopt: say, a project expecting, that you subscribe to a thing / area.
